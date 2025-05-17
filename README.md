@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm Niharika!
 
-🎓 I'm currently pursuing B.Tech in Electronics and Communication Engineering at Bharati Vidyapeeth's College of Engineering, New Delhi.  
-💡 I’m passionate about using AI, Data Science, and Web Development to solve real-world problems.  
-🚀 Always excited to collaborate on impactful projects and learn new technologies.  
-🌱 Currently exploring full-stack development and deep learning.
+🎓 I'm currently pursuing B.Tech in Information Technology at Bharati Vidyapeeth's College of Engineering, New Delhi.  
+💡 Exploring the fields of **Machine Learning**, **Artificial Intelligence**, and actively working on improving my **Data Structures & Algorithms** skills.  
+🚀 Passionate about building real-world projects and continuously learning new technologies.
 
 ---
 
@@ -48,11 +47,17 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niiihariiikaa&theme=gruvbox&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars"/>
+</p>
+
+---
+
 ## 📫 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff6700?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-niharika-kashyap.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharika-kashyap-1b2428284/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/niiihariiikaa)
-
 
 
