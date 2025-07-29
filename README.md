@@ -1,6 +1,6 @@
 # Niharika Kashyap
 
-B.Tech IT | Bharati Vidyapeeth’s College of Engineering, New Delhi  
+Aspiring Software Developer
 Exploring Machine Learning, Artificial Intelligence, and Full-Stack Development.  
 Focused on building real-world solutions and improving Data Structures & Algorithms.
 
