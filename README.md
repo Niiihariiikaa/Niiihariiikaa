@@ -15,6 +15,20 @@ Focused on building real-world solutions and improving Data Structures & Algorit
 
 ---
 
+## 🔗 Connect with Me
+
+<p>
+  <a href="https://portfolio-niharika-kashyap.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/niharika-kashyap-1b2428284/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -27,16 +41,4 @@ Focused on building real-world solutions and improving Data Structures & Algorit
 </p>
 
 ---
-
-## 🔗 Connect with Me
-
-<p>
-  <a href="https://portfolio-niharika-kashyap.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/niharika-kashyap-1b2428284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-</p>
 
